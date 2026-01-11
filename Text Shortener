@@ -1,0 +1,35 @@
+# Text Shortener
+
+## Description
+A skill that turns long text into short, clear bullet points. The skill condenses information into 2-3 concise bullet points while keeping the key meaning intact, using professional language without extra commentary.
+
+## Trigger Conditions
+- Automatically activates when user requests text summarization or bullet points
+- Responds to phrases like "summarize this", "create bullets", "shorten this", "key points", "main points"
+- Available when user submits long text that needs condensing
+
+## Functionality
+- Converts long text into 2-3 clear bullet points
+- Preserves key meaning and important information
+- Uses professional language throughout
+- Adds no extra commentary beyond the essential points
+- Creates concise, scannable summaries
+- Maintains the core message of the original text
+
+## Usage Examples
+- "Summarize this into bullet points"
+- "Create 3 bullet points from this text"
+- "Shorten this into key points"
+- "What are the main points here?"
+- "Turn this into bullets"
+
+## Parameters
+- Input: Long text that needs to be shortened
+- Output: 2-3 concise bullet points with key information
+
+## Constraints
+- Output must be 2-3 bullet points maximum
+- Language must remain professional
+- No extra commentary or explanations beyond the bullets
+- Key meaning from original text must be preserved
+- Points should be concise and scannable
