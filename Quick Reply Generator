@@ -1,0 +1,35 @@
+# Quick Reply Generator
+
+## Description
+A skill that generates short, polite, and confident replies to given messages. The skill creates professional yet friendly responses that are under 3 lines with no explanations, ready to send as-is.
+
+## Trigger Conditions
+- Automatically activates when user requests help with crafting replies
+- Responds to phrases like "generate reply", "create response", "reply to this", "help me respond"
+- Available when user submits a message that needs a response
+
+## Functionality
+- Generates short replies (under 3 lines)
+- Maintains professional but friendly tone
+- Creates polite and confident responses
+- Adds no unnecessary explanations
+- Preserves the intent of addressing the original message
+- Outputs ready-to-send replies
+
+## Usage Examples
+- "Help me reply to this message"
+- "Generate a response to this"
+- "Create a polite reply"
+- "Reply to: [message text]"
+- "How should I respond to this?"
+
+## Parameters
+- Input: Original message that needs a response
+- Output: Short, polite, confident reply ready to send
+
+## Constraints
+- Reply must be under 3 lines
+- Tone must be professional but friendly
+- No explanations or additional commentary
+- Response should address the original message appropriately
+- Concise and to the point
