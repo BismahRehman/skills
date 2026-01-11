@@ -1,0 +1,36 @@
+# Daily Text Fixer
+
+## Description
+A text-polishing automation skill that fixes grammar, spelling, and sentence structure while improving clarity and flow. The skill adjusts tone to the user's preference (formal, professional, friendly, or short) while preserving the original meaning without adding new information.
+
+## Trigger Conditions
+- Automatically activates when user requests text polishing, grammar fixes, or tone adjustments
+- Responds to phrases like "polish this text", "fix grammar", "improve this", "adjust tone", "make it formal/professional/friendly/short"
+- Available when user submits text for review or refinement
+
+## Functionality
+- Fixes grammar, spelling, and sentence structure errors
+- Improves clarity and flow of the text
+- Adjusts tone based on user's choice: formal, professional, friendly, or short
+- Preserves the original meaning of the text
+- Does not add new information beyond corrections
+- Outputs only the improved text (concise output)
+
+## Usage Examples
+- "Polish this email for me"
+- "Fix the grammar in this paragraph"
+- "Make this sound more professional"
+- "Shorten this text but keep the meaning"
+- "Adjust the tone to be more friendly"
+
+## Parameters
+- Input: Raw text that needs polishing
+- Tone preference: formal, professional, friendly, or short (optional, defaults to neutral improvement)
+- Output: Improved version of the text with corrections applied
+
+## Constraints
+- Only outputs the corrected text, nothing else
+- Does not add new content beyond necessary corrections
+- Maintains the original meaning and intent
+- Makes minimal changes necessary for improvement
+- Focuses on readability and correctness
